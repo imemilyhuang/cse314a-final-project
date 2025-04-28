@@ -6,4 +6,4 @@ We ended up finding these solutions documented below:
 - https://www.youtube.com/watch?v=PA7TxBa-XDU
 - https://stackoverflow.com/questions/75842155/how-to-use-selenium-with-chromedriver-in-apache-airflow-in-docker
 
-However, it can be extremely finicky at times and may require you to manually install Docker, change the Selenium documentation in the docker-compose.yaml file, and other additional add-ons/changes depending on the type of computer you're using. In case this doesn't work out for you, we've also included the code we wrote locally so you can test out the scraping function with Selenium ChromeDriver (located in the folder "Local Code").
+However, it can be extremely finicky at times and may require you to manually install Docker, change the Selenium documentation in the docker-compose.yaml file, and other additional add-ons/changes depending on the type of computer you're using. In case this doesn't work out for you, we've also included the code we wrote locally so you can test out the scraping function with Selenium ChromeDriver (located in the folder "LocalFiles").
